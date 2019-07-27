@@ -1,4 +1,4 @@
-package helloword;
+package com.nankou;
 
 public class HelloWord {
 

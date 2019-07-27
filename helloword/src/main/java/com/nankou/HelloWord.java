@@ -10,6 +10,7 @@ public class HelloWord {
 		System.out.println("hello world");
 		System.out.println("挣大钱。。。");
 		File file=null;
+		System.out.println(System.currentTimeMillis());
 	}
 
 }
